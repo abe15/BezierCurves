@@ -1,2 +1,4 @@
 # BezierCurves
-Modeling Smooth Curves
+This project uses C++,OpenGL aoi for graphics, and GLSL for shading. I model a smooth curve using Bezier method and use the result to make a sphere move along the created path. The sphere uses enviroment mapping.
+
+![Bezier](https://gfycat.com/SevereBruisedEider)
